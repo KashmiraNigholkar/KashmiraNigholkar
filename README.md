@@ -45,8 +45,9 @@
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30" alt="Instagram" />
   </a>
 </p>
-### 🎉 Fun Facts
-- 💡 I like making **responsive UI designs** for websites — sleek, clean, and user-friendly interfaces are my thing!
+
+## 🎉 Fun Facts
+- 💡 I like making **responsive UI designs** for website— sleek, clean, and user-friendly interfaces are my thing!
 - 🎨 I enjoy customizing UIs to improve user experience.
 - 👩‍💻 I build full stack applications and constantly learn new tools & libraries.
 
