@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Miss. KASHMIRA NIGHOLKAR</h1>
+<h1 align="center">Hi 👋, I'm Miss. <b style='bg-blue-600'>KASHMIRA NIGHOLKAR😀😀😀</b>
+  </h1>
 <h3 align="center">💻 I'm a Full Stack Developer</h3>
 
 <p align="center">
