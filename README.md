@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#007acc;"><strong>Kashmira Nigholkar</strong></span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#007acc;"><strong style="color:#007acc;>Kashmira Nigholkar</strong></span></h1>
 <h3 align="center">💻 Full Stack Developer | MERN Stack Specialist | Passionate Problem Solver</h3>
 
 <p align="center">
