@@ -6,12 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5879f7f8-697f-4ddf-9c88-e3484abccdfb" width="200" alt="Kashmira Nigholkar" style="border-radius:10px;" />
+  <img src="https://avatars.githubusercontent.com/u/your_github_id?v=4" width="200" alt="Kashmira Nigholkar" style="border-radius:10px;" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
+
+> I'm a passionate full-stack developer who loves transforming complex problems into elegant web solutions. Whether it's frontend finesse or backend logic, I build with performance, scalability, and user experience in mind.
 
 - 🔭 Currently working on **scalable full-stack projects** using the **MERN stack**
 - 🌱 Exploring **Next.js, TypeScript**, and performance optimization techniques
@@ -60,7 +62,7 @@
   <img src="https://img.icons8.com/color/48/angularjs.png" title="Angular" width="30"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap" width="30"/>
   <img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS" width="30"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next.js" width="30"/>
+  <img src="https://img.icons8.com/fluency/48/nextjs.png" title="Next.js" width="30"/>
 </p>
 
 ### 🔧 Backend & Databases
@@ -77,8 +79,16 @@
   <img src="https://img.icons8.com/ios-glyphs/48/github.png" title="GitHub" width="30"/>
   <img src="https://img.icons8.com/color/48/docker.png" title="Docker" width="30"/>
   <img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma" width="30"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" width="30"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="Visual Studio Code" width="30"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+- [🛒 E-Commerce MERN App](https://github.com/kashmiranigholkar/ecommerce-mern) – Full-featured scalable online store
+- [📱 Chat App](https://github.com/kashmiranigholkar/chat-app) – Real-time messaging with Socket.io
+- [🎨 Portfolio Website](https://github.com/kashmiranigholkar/portfolio) – Personal developer portfolio with animations and responsiveness
 
 ---
 
