@@ -4,6 +4,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Open+Source+Contributor;Designing+Scalable+Apps;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kashmiranigholkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5879f7f8-697f-4ddf-9c88-e3484abccdfb" width="200" alt="Kashmira Nigholkar" style="border-radius:10px;" />
@@ -102,11 +106,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashmiranigholkar&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kashmiranigholkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/kashmiranigholkar?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/kashmiranigholkar?label=Stars&style=social" />
-</p>
+
 
 ---
 
