@@ -20,7 +20,8 @@
 ---
 ## 🎯 *About Me*
 
-- 👩‍💻 Software Engineering Student passionate about building smart tech. 
+- 👩‍💻 Software Engineering Student
+- passionate about building smart tech. 
 - 🧠 Full Stack MERN Developer | 🤖 AI/ML Explorer | 🌐 IoT & WordPress Enthusiast. 
 - 📊 Skilled in Python, Java, SQL, PHP, ML, and data-driven decision making. 
 - 🎨 Also passionate about drawing and sketching — blending creativity with technology. 
