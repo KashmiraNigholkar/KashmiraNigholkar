@@ -97,12 +97,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KashmiraNigholkar&show_icons=true&theme=tokyonight" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashmiraNigholkar&layout=compact&theme=tokyonight" width="350"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=KashmiraNigholkar&theme=tokyonight" width="700"/> </p>
-
-
-
 
 ## 📲 Connect With Me
 
